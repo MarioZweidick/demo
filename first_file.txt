@@ -1,1 +1,2 @@
 Hello, this is a test to check, if git works.
+Yes, git works and it also shows the updates.
